@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">A developer from Turkiye</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetgui&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetgui" /> </p>
 
 - 📫 How to reach me **mehmetgul14@gmail.com**
